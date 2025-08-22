@@ -1,3 +1,6 @@
+[![tests](https://img.shields.io/github/actions/workflow/status/Galkainvest/json-tidy/tests.yml?branch=main)](../../actions)
+[![license](https://img.shields.io/github/license/Galkainvest/json-tidy)](LICENSE)
+
 # json-tidy
 Маленький інструмент для охайного форматування JSON. Працює з файлом або з stdin.
 
